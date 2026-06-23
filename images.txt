@@ -5,4 +5,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #--platform=linux/amd64 osrf/ros:noetic-desktop-full
---platform=linux/amd64 ghcr.io/commaai/openpilot-base:latest
+#--platform=linux/amd64 ghcr.io/commaai/openpilot-base:latest
+emqx/emqx:5.8.0

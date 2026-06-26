@@ -7,4 +7,4 @@
 #--platform=linux/amd64 osrf/ros:noetic-desktop-full
 #--platform=linux/amd64 ghcr.io/commaai/openpilot-base:latest
 #emqx/emqx:5.8.0
-tdengine/tdengine:3.4.1.16
+tdengine/tdengine
